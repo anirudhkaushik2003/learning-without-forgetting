@@ -1,0 +1,95 @@
+classHierarchy = {
+    "beaver": "aquatic_mammals",
+    "dolphin": "aquatic_mammals",
+    "otter": "aquatic_mammals",
+    "seal": "aquatic_mammals",
+    "whale": "aquatic_mammals",
+
+    "aquarium_fish": "fish",
+    "flatfish": "fish",
+    "ray": "fish",
+    "shark": "fish",
+    "trout": "fish",
+
+    "orchid" : "flowers",
+    "poppy" : "flowers",
+    "rose" : "flowers",
+    "sunflower" : "flowers",
+    "tulip" : "flowers",
+
+    "bottle": "food_containers",
+    "bowl": "food_containers",
+    "can": "food_containers",
+    "cup": "food_containers",
+    "plate": "food_containers",
+
+    "apple": "fruit_and_vegetables",
+    "orange": "fruit_and_vegetables",
+    "pear": "fruit_and_vegetables",
+    "sweet_pepper": "fruit_and_vegetables",
+
+    "bed": "household_furniture",
+    "chair": "household_furniture",
+    "couch": "household_furniture",
+    "table": "household_furniture",
+    "wardrobe": "household_furniture",
+            
+    "bee": "insects",
+    "beetle": "insects",
+    "butterfly": "insects",
+    "caterpillar": "insects",
+    "cockroach": "insects",
+
+    "leopard": "large_carnivores",
+    "lion": "large_carnivores",
+    "tiger": "large_carnivores",
+    "wolf": "large_carnivores",
+
+    "bear": "large_omnivores_and_herbivores",
+    "camel": "large_omnivores_and_herbivores",
+    "cattle": "large_omnivores_and_herbivores",
+    "chimpanzee": "large_omnivores_and_herbivores",
+    "elephant": "large_omnivores_and_herbivores",
+    "kangaroo": "large_omnivores_and_herbivores",
+
+    "fox": "medium_sized_mammals",
+    "porcupine": "medium_sized_mammals",
+    "possum": "medium_sized_mammals",
+    "raccoon": "medium_sized_mammals",
+    "skunk": "medium_sized_mammals",
+                  
+    "baby" : "people",
+    "boy" : "people",
+    "girl" : "people",
+    "man" : "people",
+    "woman" : "people",
+
+    "crocodile" : "reptiles",
+    "dinosaur" : "reptiles",
+    "lizard" : "reptiles",
+    "snake" : "reptiles",
+    "turtle" : "reptiles",
+    
+    "hamster":"small_mammals",
+    "mouse":"small_mammals",
+    "rabbit":"small_mammals",
+    "shrew":"small_mammals",
+    "squirrel":"small_mammals",
+
+    "maple_tree": "trees",
+    "oak_tree": "trees",
+    "palm_tree": "trees",
+    "pine_tree": "trees",
+    "willow_tree": "trees",
+        
+    "bicycle": "vehicles",
+    "bus": "vehicles",
+    "motorcycle": "vehicles",
+    "pickup_truck": "vehicles",
+    "train": "vehicles",
+    "streetcar": "vehicles",
+    "tank": "vehicles",
+    "tractor": "vehicles",
+       
+    
+}
