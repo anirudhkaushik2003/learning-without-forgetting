@@ -1,9 +1,13 @@
+from __future__ import print_function
+from __future__ import division
+
 import sys
 sys.path.append("../..")
 import numpy as np
 from iirc.datasets_loader import get_lifelong_datasets
 from iirc.definitions import PYTORCH, IIRC_SETUP
 from iirc.utils.download_cifar import download_extract_cifar100
+
 
 import torch
 import torch.nn as nn
