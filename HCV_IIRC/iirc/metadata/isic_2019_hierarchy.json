@@ -1,0 +1,18 @@
+{
+    "super_classes": {
+      "melanocytic": [
+        "Melanoma",  
+        "Melanocytic_nevus" 
+      ],
+      "non_melanocytic": [
+        "Basal_cell_carcinoma",
+        "Actinic_keratosis",
+        "Benign_keratosis",
+        "Dermatofibroma",
+        "Vascular_lesion",
+        "Squamous_cell_carcinoma"
+      ]
+    },
+    "other_sub_classes": [
+    ]
+  }

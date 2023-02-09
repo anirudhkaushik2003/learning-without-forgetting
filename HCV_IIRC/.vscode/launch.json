@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args": [
+                "--method", "learning_without_forgetting_ptm", 
+                "--group", "lwf_HCV_experiments", 
+                "--save_each_task_model", 
+                "--epochs_per_task", "140", 
+                "--total_n_memories", "-1", 
+                "--checkpoint_interval", "5", 
+                "--use_best_model"
+            ]
+        }
+    ]
+}

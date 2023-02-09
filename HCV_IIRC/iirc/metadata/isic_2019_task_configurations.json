@@ -1,0 +1,18 @@
+{
+    "configuration_0": {
+      "task_0": [
+        "melanocytic",
+        "non_melanocytic"
+      ],
+      "task_1": [
+        "Melanoma",  
+        "Melanocytic nevus" ,
+        "Basal_cell_carcinoma",
+        "Actinic_keratosis",
+        "Benign_keratosis",
+        "Dermatofibroma",
+        "Vascular_lesion",
+        "Squamous_cell_carcinoma"
+      ]
+    }
+  }
